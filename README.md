@@ -1,4 +1,4 @@
-![web4](https://github.com/user-attachments/assets/13654ef0-6428-4f21-ae2b-6132f8e56779)# Cyber-Retail
+# Cyber-Retail
 A fully responsive e-commerce website with multiple pages, including About, Contact, Blog, and Products, featuring an Add to Cart functionality using HTML, CSS, and JavaScript.
 
 # Overview
